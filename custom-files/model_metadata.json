@@ -57,7 +57,7 @@
             "speed": 1.8
         },
         {
-            "steering_angle": 20.0,
+            "steering_angle": 30.0,
             "speed": 1.3
         }
     ],
